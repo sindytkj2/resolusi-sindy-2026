@@ -1,3 +1,5 @@
+Resolusi Sindy 2026 - Hari 1
+
 - Belajar GitHub
 - Belajar jaringan dasar
 - Latihan konfigurasi server
