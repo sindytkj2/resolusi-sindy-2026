@@ -1,0 +1,5 @@
+Resolusi Sindy 2026 - Hari 2
+
+- Review materi kemarin
+- Belajar DNS
+- Praktik konfigurasi hosting
