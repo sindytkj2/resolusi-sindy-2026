@@ -1,1 +1,4 @@
-
+- Belajar GitHub
+- Belajar jaringan dasar
+- Latihan konfigurasi server
+- Meningkatkan produktivitas
