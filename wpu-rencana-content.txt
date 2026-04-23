@@ -2,6 +2,7 @@ RENCANA KONTEN WPU
 
 -Javascript
 * ES6
+* React
 * Framework Javascript
  ^ Vue
 - Fundmental Data Dasar
