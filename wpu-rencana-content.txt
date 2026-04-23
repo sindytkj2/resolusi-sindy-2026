@@ -3,7 +3,7 @@ RENCANA KONTEN WPU
 -Javascript
 * ES6
 * Framework Javascript
-- Fundmental Date Dasar
+- Fundmental Data Dasar
 -PHP Frameworks
 -Interview
 -Vlogs
