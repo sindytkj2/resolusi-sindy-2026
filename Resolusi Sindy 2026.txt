@@ -4,3 +4,4 @@ Resolusi Sindy 2026 - Hari 1
 - Belajar jaringan dasar
 - Latihan konfigurasi server
 - Meningkatkan produktivitas
+- Belajar forking
